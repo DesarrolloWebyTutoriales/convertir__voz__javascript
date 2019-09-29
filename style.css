@@ -13,27 +13,27 @@ body,html{
 	background-repeat: round; 
 	padding: 190px;
 }
-#fondo #fondo-form {
-	background-color: #ccc; 
-	padding: 35px; 
-	border-radius: 100px;	
-}
-#fondo .campo-texto{
-	border-radius: 100px;
-	-webkit-border-radius: 100px;
-	-moz-border-radius: 100px;
-	-o-border-radius: 100px;
-	-ms-border-radius: 100px;
-	height: 60px; 
-	font-family: cursive;
-	width: 830px;
-}
-#fondo button.btn-escuchar{
-	border-radius: 100px;
-	-webkit-border-radius: 100px;
-	-moz-border-radius: 100px;
-	-o-border-radius: 100px;
-	-ms-border-radius: 100px;	
-	height: 60px; 
-	margin-left: -38px; 	
-}
+	#fondo #fondo-form {
+		background-color: #ccc; 
+		padding: 35px; 
+		border-radius: 100px;
+	}
+	#fondo .campo-texto{
+		border-radius: 100px;
+		-webkit-border-radius: 100px;
+		-moz-border-radius: 100px;
+		-o-border-radius: 100px;
+		-ms-border-radius: 100px;
+		height: 60px; 
+		font-family: cursive;
+		width: 830px;
+	}
+	#fondo button.btn-escuchar{
+		border-radius: 100px;
+		-webkit-border-radius: 100px;
+		-moz-border-radius: 100px;
+		-o-border-radius: 100px;
+		-ms-border-radius: 100px;	
+		height: 60px; 
+		margin-left: -38px; 	
+	}

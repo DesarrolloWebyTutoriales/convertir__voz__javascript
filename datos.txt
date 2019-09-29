@@ -1,5 +1,7 @@
 cd d:/xampp/htdocs/convertir-texto-voz
 
+git add .
+
 …or create a new repository on the command line
 echo "# convertir__voz__javascript" >> README.md
 git init
